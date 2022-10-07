@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\bin\Debug\net6.0\task_02.exe
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\bin\Debug\net6.0\task_02.deps.json
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\bin\Debug\net6.0\task_02.runtimeconfig.json
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\bin\Debug\net6.0\task_02.dll
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\bin\Debug\net6.0\task_02.pdb
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\obj\Debug\net6.0\task_02.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\obj\Debug\net6.0\task_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\obj\Debug\net6.0\task_02.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\obj\Debug\net6.0\task_02.AssemblyInfo.cs
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\obj\Debug\net6.0\task_02.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\obj\Debug\net6.0\task_02.dll
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\obj\Debug\net6.0\refint\task_02.dll
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\obj\Debug\net6.0\task_02.pdb
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\obj\Debug\net6.0\task_02.genruntimeconfig.cache
+C:\Users\Александр\Desktop\Обучение маханию лапками\Знакомство с языками программирования\home_tasks\task_02\obj\Debug\net6.0\ref\task_02.dll
